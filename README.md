@@ -1,7 +1,7 @@
 # Master_Project_Code-Plots Shield: 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Files in this repository is 
+Relevant code and figures generated thoughtout the master project. 
 
 
 This work is licensed under a
